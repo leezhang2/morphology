@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "morphology", "morphology\morphology.vcxproj", "{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Debug|x64.ActiveCfg = Debug|x64
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Debug|x64.Build.0 = Debug|x64
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Debug|x86.Build.0 = Debug|Win32
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Release|x64.ActiveCfg = Release|x64
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Release|x64.Build.0 = Release|x64
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Release|x86.ActiveCfg = Release|Win32
+		{BCF816F0-E914-454D-9DFC-E7F080F9C4B8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C1249D1-51AE-4FED-A1A9-7E872B019F19}
+	EndGlobalSection
+EndGlobal
